@@ -18,10 +18,10 @@
 ![Bash](https://img.shields.io/badge/Bash-333?style=flat-square)
 
 ### Что сейчас делаю
-- **shipboard** — локальный whisper.cpp STT + hold-to-talk daemon для Linux
-- **Veer** — Android-телефон как беспроводной руль для Linux через UDP и uinput
-- **singboxctl_applet** — Rust-утилита управления состоянием sing-box
-- домашний/VPS-стенд: Docker, Nginx, VPN/proxy, автоматизация
+- **emersia** — OSS альтернатива ImmersedVR с поддержкой Wayland
+- **aporia** — VR интерактив
+- **dyak** — LLM-driven python pipeline, преобразование аудио/видео лекций/подкастов в удобные саммари или подробные конспекты.
+- учу Docker, Nginx, K8s, сети, порты, автоматизацию, системы управления.
 
 ### Цели
 - углубить Linux и сети
